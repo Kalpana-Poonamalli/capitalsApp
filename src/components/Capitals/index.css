@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.c-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+.inner-container {
+  background-color: #f8fafc;
+  width: 36%;
+  padding: 50px;
+  border-radius: 16px;
+}
+.heading {
+  color: #323f4b;
+  font-weight: 600;
+}
+.select-container {
+  display: flex;
+}
+.select {
+  width: 34%;
+  height: 30px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.option {
+  color: #000000;
+}
+.para {
+  color: #323f4b;
+}
+.head {
+  color: #1e293b;
+  font-weight: 600;
+  font-size: 20px;
+}
